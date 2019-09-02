@@ -1,2 +1,2 @@
 # software-mongoDB
-My learning route
+My learning route of this new NoSQL database.
